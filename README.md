@@ -40,9 +40,5 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=TBHGodPro&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TBHGodPro&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
-  <br/>
-  <b>Note:</b> Most Used Languages Is Only A Metric Of The Languages My Public Code Consists Of And Doesn't Reflect Experience Or Skill Level.
-  <br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=TBHGodPro&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
   
   </p>
