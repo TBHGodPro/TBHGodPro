@@ -8,7 +8,7 @@
 
 ## About Me
 
-- I'm currently working on [Solar Tweaks](https://github.com/Solar-Tweaks/Solar-Tweaks) and [LCLib](https://github.com/TBHGodPro/LCLib).
+- I'm currently working on [Solar Tweaks](https://github.com/Solar-Tweaks/Solar-Tweaks), [SolarStats](https://github.com/TBHGodPro/SolarStas-Temp) and [LCLib](https://github.com/TBHGodPro/LCLib).
 - I know a large variety of programming languages, but main JavaScript and TypeScript (with a bit of Java).
 - I play Minecraft and Rocket League.
 
