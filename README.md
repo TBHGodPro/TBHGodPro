@@ -19,6 +19,11 @@
   <img src="https://img.icons8.com/color/48/000000/ionic.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=TBHGodPro&label=Profile%20Views&color=0&icon=2&pretty=false" />
+  </a>
+</p>
 
 <hr />
 
@@ -34,3 +39,4 @@
 <h3 align="center">
   <a href="#connect-with-me"><img src="https://lanyard.cnrad.dev/api/668116405765537808"></a>
 </h3>
+
